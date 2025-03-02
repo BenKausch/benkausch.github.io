@@ -1,0 +1,311 @@
+baseURL: "https://drkausch.de"
+languageCode: "de-de"
+title: "Psychologisches Coaching Dr. B. Kausch"
+theme: hugo-profile
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+  page:
+    - "HTML"
+    - "RSS"
+
+enableRobotsTXT: true
+
+#services:
+  #googleAnalytics:
+    #id: G-MEASUREMENT_ID
+  #disqus:
+    #shortname: your-disqus-shortname
+
+pagination:
+  pagerSize: 3
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+#Menus:
+#  main:
+    #- identifier: Impressum
+    #  name: Impressum
+    #  title: Impressum
+    #  url: /impressum
+    #  weight: 1
+    #- identifier: Datenschutz
+    #  name: Datenschutz
+    #  title: Datenschutz
+    #  url: /datenschutz
+    #  weight: 2
+    #- identifier: gallery
+    #  name: Gallery
+    #  title: Blog posts
+    #  url: /gallery
+    #  weight: 2
+    #Dropdown menu
+    # - identifier: dropdown
+    #   title: Example dropdown menu
+    #   name: Dropdown
+    #   weight: 3
+    # - identifier: dropdown1
+    #   title: example dropdown 1
+    #   name: example 1
+    #   url: /#
+    #   parent: dropdown
+    #   weight: 1
+    # - identifier: dropdown2
+    #   title: example dropdown 2
+    #   name: example 2
+    #   url: /#
+    #   parent: dropdown
+    #   weight: 2
+
+params:
+  description: Psychotherapeut i.A.
+  # staticPath: ""  # The path to serve the static files from
+  favicon: "/fav.png"
+
+  # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
+  # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
+  # Note the lack of "" in true, it should be of boolean type.
+  useBootstrapCDN: false
+
+  # Whether to add mathjax support on all pages. Alternatively, you can opt-in per page by adding `mathjax: true` in the frontmatter.
+  mathjax: false
+
+  # Whether the fade animations on the home page will be enabled
+  animate: true
+
+  theme:
+    # disableThemeToggle: true
+    # defaultTheme: "light" # dark
+
+  font:
+    fontSize: 1rem # default: 1rem
+    fontWeight: 400 # default: 400
+    lineHeight: 1.5 # default: 1.5
+    textAlign: left # default: left
+    
+  # color preference
+  # When using hex codes for colors, quotations must be used along with the # sign
+  color:
+    textColor: "#343a40"
+    secondaryTextColor: "#6c757d"
+    textLinkColor: "#007bff"
+    backgroundColor: "#eaedf0"
+    secondaryBackgroundColor: "#64ffda1a"
+    primaryColor: "#007bff"
+    secondaryColor: "#f8f9fa"
+     
+  darkmode:
+    textColor: "#e4e6eb"
+    secondaryTextColor: "#b0b3b8"
+    textLinkColor: "#ffffff"
+    backgroundColor: "#18191a"
+    secondaryBackgroundColor: "#212529"
+    primaryColor: "#ffffff"
+    secondaryColor: "#212529"
+
+  # If you want to customize the menu, you can change it here
+  navbar:
+    align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
+    # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
+    # showBrandLogo: false # Show brand logo in nav bar | default is true
+    brandName: "Dr. M.Sc. Benjamin Kausch" # Brand name for the brand | default is the title variable
+    disableSearch: true
+    # searchPlaceholder: "Search"
+    stickyNavBar:
+      enable : true
+      showOnScrollUp : true
+    enableSeparator: false
+    menus:
+      disableAbout: false
+      disableExperience: false
+      disableEducation: false
+      disableProjects: true
+      disableAchievements: false
+      disableContact: false
+
+  # Hero
+  hero:
+    enable: true
+    intro: "M.Sc. Psychologie"
+    title: "Dr. Benjamin Kausch"
+    subtitle: "Psychologe & Coach"
+    content: "Schön, dass Sie hier sind. Jeder Mensch erlebt Zeiten der Unsicherheit oder des inneren Wandels. Ich biete Ihnen einen geschützten Raum, um diesen Herausforderungen mit Klarheit und neuen Perspektiven zu begegnen."
+    image: /images/business_square.jpg
+    roundImage: true
+    bottomImage:
+      enable: false
+      roundImage: true # Make hero image circular | default false
+    button:
+      enable: true
+      name: "Kontakt"
+      url: "#contact"
+      download: true
+      newPage: false
+
+  # About
+  about:
+    enable: true
+    title: "Über mich"
+    #image: "/images/business_square.jpg"
+    content: |-
+      Mein Name ist Benjamin Kausch. Ich bin Psychologe und Coach sowie Psychologischer Psychotherapeut in Ausbildung. Ich biete Ihnen psychologisches Coaching vor Ort im Rhein-Main-Gebiet (Frankfurt, Mainz, Wiesbaden und Umgebung) oder online.
+      
+      Ich coache mit wissenschaftlich fundierten Methoden der Kognitiven Verhaltenstherapie, ergänzt durch philosophisch-existenzielle Ansätze sowie einer biografische Betrachtung Ihrer individuellen Lebensgeschichte. Mein Ziel ist es, Ihnen nicht nur kurzfristige Orientierung zu ermöglichen, sondern nachhaltige Wege zu mehr Selbstbestimmung, Klarheit und Zufriedenheit zu eröffnen.
+      
+      Ob Sie nach Unterstützung in einer akuten Krise suchen, sich mit tiefgehenden Lebensfragen beschäftigen oder neue Handlungsspielräume entdecken möchten – ich begleite Sie mit Fachwissen, Empathie und einem lösungsorientierten Blick.
+      
+      Ab 2026 biete ich zusätzlich psychotherapeutische Behandlungen als Psychologischer Psychotherapeut.
+      
+      Vereinbaren Sie gerne ein unverbindliches Erstgespräch – ich freue mich darauf, Sie kennenzulernen.
+      
+    skills:
+      enable: true
+      title: "Meine Schwerpunkte beinhalten:"
+      items:
+        - "Stärkung des Selbstbewusstseins und Selbstwertgefühls"
+        - "Überwindung von Perfektionismus und Selbstkkritik"
+        - "Identitätsfindung und Werteklärung"
+        - "Förderung von Resilienz und emotionaler Stabilität"
+        - "Umgang mit inneren Konflikten und Selbstzweifeln"
+        - "Stressbewältigung und Burnout-Prävention"
+        - "Work-Life-Balance"
+        - "Umgang mit Ängsten und Selbstzweifeln"
+        - "Stärkung von zwischenmenschlichen Beziehungen"
+        - ""
+        
+        #- "Depressionen"
+        #- "Soziale Phobie"
+        #- "Panikattacken"
+        #- "Generalisierte Angststörung"
+        #- "Psychosomatische Störungen"
+        #- "Beziehungsprobleme"
+        #- "Posttraumatische Belastungsstörung (PTBS)"
+        #- "ADHS (Diagnostik und Behandlung)"
+        #- "Spezifische Phobien (Spinnen, Höhe, Tunnel, Fahrstühle, Fliegen, Hunde, Gewitter etc.)"
+
+
+  # Education
+  education:
+    enable: false
+
+
+  # Achievements
+  achievements:
+    enable: true
+    title: "Therapeutische Ansätze"
+    items:
+      - title: Kognitive Verhaltenstherapie
+        content: Mittels der kognitiven Therapie er- und bearbeiten wir durch interessiert geleitetes Entdecken Ihre Erfahrungen und Einstellungen. Sie hinterfragen Überzeugungen, die Sie biografisch gelernt haben und beginnen, eine hilfreiche Sicht auf sich und die Welt zu entwickeln. Durch konkrete Übungen erarbeiten Sie sich nach und nach Verhaltensweisen, die Ihnen bislang schwer fallen.
+      - title: Akzeptanz- und Commitmenttherapie (ACT)
+        content: Wir fokussieren uns auf das, was wirklich wichtig ist. Sie lernen, Sorgen zu mindern und im Augenblick zu leben. Zusammen finden wir heraus, was Ihnen im Leben wirklich wichtig ist und richten Ihr Leben dementsprechend aus.
+      - title: Existentielle Psychotherapie
+        content: Wir fokussieren uns auf das, was wirklich wichtig ist. Sie lernen, Sorgen zu mindern und im Augenblick zu leben. Zusammen finden wir heraus, was Ihnen im Leben wirklich wichtig ist und richten Ihr Leben dementsprechend aus.
+
+  # Experience
+  experience:
+    enable: true
+    title: "Beruflicher Werdegang"
+    items:
+      - job: "Psychotherapie "
+        company: "IKVT Wiesbaden"
+        companyUrl: "https://example.com"
+        date: "2024 - heute"
+        info:
+          enable: false
+        content: |
+          Als Psychotherapeut in Ausbildung behandle ich Patienten der Ambulanz des IKVT Wiesbadens.
+
+          Behandlungsschwerpunkte:
+          - Depression
+          - Soziale Ängste, Selbstwertprobleme
+          - Generalisierte Angststörung, Chronisches Grübeln
+          - Krankheitsängste, Existentielle Ängste
+          - ADHS-Diagnostik und -Behandlung
+          - Posttraumatische Belastungsstörung (PTBS)
+
+      - job: "Bezugstherapeut"
+        company: "MEDIAN Hohenfeld-Klinik"
+        companyUrl: "https://www.median-kliniken.de/de/median-hohenfeld-klinik-bad-camberg/behandlungsgebiete/psychosomatik/"
+        date: "2023 - 2024"
+        info:
+          enable: false
+        content: |
+          Behandlungsschwerpunkte:
+          - Burnout
+          - Stressresistenz
+          - Arbeitsplatzkonflikte
+          - Anpassungsstörungen
+          - Schmerzsstörungen und Schmerztherapie
+          - Depression
+
+      - job: "Bezugstherapeut"
+        company: "MEDIAN Klinik am Waldsee"
+        companyUrl: "https://www.median-kliniken.de/de/median-klinik-am-waldsee/ueber-uns/"
+        date: "2022 - 2023"
+        info:
+          enable: false
+        content: |
+          Behandlungsschwerpunkte:
+          - Sucht und Abhängigkeit
+          - Psychosen
+          - Schizophrenie 
+          - Depression
+          - Persönlichkeitsstörungen / Borderline-PS
+          - ADHS
+          - Posttraumatische Belastungsstörung (PTBS)
+
+
+  # projects
+  projects:
+    enable: false
+
+  #Contact
+  contact:
+    enable: true
+    title: "Kontakt"
+    content:  |
+          Für ein unverbindliches Erstgespräch zu einem psychologischen Coaching kontaktieren Sie mich gerne per Mail. Ich melde mich zeitnah bei Ihnen.
+          
+          
+          Für psychotherapeutische Behandlungen (privat versichert/PKV und Selbstzahler) kontaktieren Sie mich gerne für einen Platz auf der Warteliste - meine Praxis als Psychologischer Psychotherapeut eröffnet im Frühjahr 2026.
+    btnName: E-Mail
+    email: encrypt
+
+# &#109;&#97;&#105;&#108;&#116;&#111;&#58;%62%65%6E%2E%6B%61%75%73%63%68%40%70%6F%73%74%65%6F%2E%64%65
+
+  # List pages like blogs and posts
+  listPages:
+    disableFeaturedImage: false
+
+  # Single pages like blog and post
+  singlePages:
+    socialShare: false
+    readTime:
+      enable: false
+      content: "min read"
+    scrollprogress:
+      enable: false
+    tags:
+      openInNewTab: true
+
+  # For translations
+  terms:
+    read: "Read"
+    toc: "Table Of Contents"
+    copyright: "All rights reserved"
+    pageNotFound: "Page not found"
+    emailText: "Check out this site"
+
+  datesFormat:
+    article: "Jan 2, 2006"
+    articleList: "Jan 2, 2006"
+    articleRecent: "Jan 2, 2006"
+
+  #customScripts: -| # You can add custom scripts which will be added before </body> tag
+  #  <script type="text/javascript"><!-- any script here --></script>
