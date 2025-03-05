@@ -1,6 +1,6 @@
 baseURL: "https://drkausch.de"
 languageCode: "de-de"
-title: "Psychologisches Coaching Dr. B. Kausch"
+title: "Psychologisches Coaching Frankfurt Dr. B. Kausch"
 theme: hugo-profile
 
 outputs:
@@ -135,7 +135,7 @@ params:
     intro: "M.Sc. Psychologie"
     title: "Dr. Benjamin Kausch"
     subtitle: "Psychologe & Coach"
-    content: "Schön, dass Sie hier sind. Jeder Mensch erlebt Zeiten der Unsicherheit oder des inneren Wandels. Ich biete Ihnen einen geschützten Raum, um diesen Herausforderungen mit Klarheit und neuen Perspektiven zu begegnen."
+    content: "Schön, dass Sie hier sind. Jeder Mensch erlebt Zeiten der Unsicherheit oder des inneren Wandels. Als psychologischer Coach in Frankfurt biete Ihnen einen geschützten Raum, um diesen Herausforderungen mit Klarheit und neuen Perspektiven zu begegnen."
     image: /images/business_square.jpg
     roundImage: true
     bottomImage:
@@ -169,7 +169,7 @@ params:
       title: "Meine Schwerpunkte beinhalten:"
       items:
         - "Stärkung des Selbstbewusstseins und Selbstwertgefühls"
-        - "Überwindung von Perfektionismus und Selbstkkritik"
+        - "Überwindung von Perfektionismus und Selbstkritik"
         - "Identitätsfindung und Werteklärung"
         - "Förderung von Resilienz und emotionaler Stabilität"
         - "Umgang mit inneren Konflikten und Selbstzweifeln"
@@ -177,7 +177,9 @@ params:
         - "Work-Life-Balance"
         - "Umgang mit Ängsten und Selbstzweifeln"
         - "Stärkung von zwischenmenschlichen Beziehungen"
-        - ""
+        - "Verbessertes Durchsetzungsvermögen"
+        - "Umgang mit Lebensübergängen und Veränderung"
+        - "Gestaltung eines erfüllten und authentischen Lebens"
         
         #- "Depressionen"
         #- "Soziale Phobie"
@@ -203,9 +205,9 @@ params:
       - title: Kognitive Verhaltenstherapie
         content: Mittels der kognitiven Therapie er- und bearbeiten wir durch interessiert geleitetes Entdecken Ihre Erfahrungen und Einstellungen. Sie hinterfragen Überzeugungen, die Sie biografisch gelernt haben und beginnen, eine hilfreiche Sicht auf sich und die Welt zu entwickeln. Durch konkrete Übungen erarbeiten Sie sich nach und nach Verhaltensweisen, die Ihnen bislang schwer fallen.
       - title: Akzeptanz- und Commitmenttherapie (ACT)
-        content: Wir fokussieren uns auf das, was wirklich wichtig ist. Sie lernen, Sorgen zu mindern und im Augenblick zu leben. Zusammen finden wir heraus, was Ihnen im Leben wirklich wichtig ist und richten Ihr Leben dementsprechend aus.
+        content: Die Akzeptanz- und Commitment-Therapie (ACT) hilft Ihnen dabei, schwierige Gedanken und Gefühle anzunehmen, anstatt gegen sie anzukämpfen. Durch Achtsamkeit, wertorientiertes Handeln und mehr psychische Flexibilität können Sie lernen, auch mit Herausforderungen ein erfülltes Leben zu führen. Ziel ist es, weniger von negativen Gedanken kontrolliert zu werden und sich stattdessen auf das zu konzentrieren, was Ihnen wirklich wichtig ist.
       - title: Existentielle Psychotherapie
-        content: Wir fokussieren uns auf das, was wirklich wichtig ist. Sie lernen, Sorgen zu mindern und im Augenblick zu leben. Zusammen finden wir heraus, was Ihnen im Leben wirklich wichtig ist und richten Ihr Leben dementsprechend aus.
+        content: In der existentiellen Psychotherapie beschäftigen wir uns mit den tiefen Fragen des Lebens, wie Freiheit, Verantwortung, Vergänglichkeit und Sinn. Anstatt Symptome nur zu bekämpfen, geht es darum, sich diesen Themen bewusst zu stellen und einen persönlichen Umgang damit zu finden. So können Sie mehr Klarheit, Selbstbestimmung und innere Zufriedenheit in Ihrem Leben entwickeln.
 
   # Experience
   experience:
