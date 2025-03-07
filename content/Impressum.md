@@ -44,6 +44,9 @@ NICHT FÜR THERAPIEANFRAGEN!
 E-Mail: <a HREF="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%64%72%2E%6B%61%75%73%63%68%40%70%6F%73%74%65%6F%2E%64%65">Hier klicken</a>.  
 Fax: <em>&#48;&#x36;&#00057;&#x20;&#52;&#49;&#x36;&#55;&#00052;&#54;&#00051;&#00054;</em>
 
+### Website
+Website entworfen und entwickelt mit <a href="https://gohugo.io/" target="_blank">Hugo</a>, Vorlage von <a href="https://github.com/gurusabarish/hugo-profile" target="_blank" title="Designed and developed by gurusabarish">Hugo Profile</a>.
+            
 
 
 
