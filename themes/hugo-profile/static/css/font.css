@@ -1,11 +1,11 @@
-/* Default font for body */
+/* Default font for body, used to be "Lora", serif; */
 body {
-    font-family: "Lora", serif !important;
+    font-family: "Alata", sans-serif !important;
 }
 
-/* secondary font */
+/* secondary font, used to be "Lora", serif;*/
 .secondary-font, #secondary-font {
-    font-family: "Lora", serif;
+    font-family: "Alata", sans-serif;
 }
 
 /* primary font */
