@@ -214,9 +214,25 @@ params:
     enable: true
     title: "Beruflicher Werdegang"
     items:
+      - job: "Psychologische Beratung "
+        company: "Psychotherapeutische Beratungsstelle der GU Frankfurt"
+        companyUrl: "https://www.uni-frankfurt.de/120593878"
+        date: "2025 - heute"
+        info:
+          enable: false
+        content: |
+          An der PBS der Goethe-Universität Frankfurt biete ich psychologische Beratung für Studierende.
+
+          Themen:
+          - Schwierigkeiten im Studium, z.B. Prüfungsängste, Aufschieben (Prokrastination), Lernblockaden, emotionalen Schwierigkeiten, zwischenmenschliche Problemen, z.B. Konflikte mit Familie, Freunden oder in der Partnerschaft
+          - ADHS-artige Symptome wie Unaufmerksamkeit, Impulsivität, Vergesslichkeit, motorische oder innere Unruhe
+          - Identitätsfragen
+          - LGBTQI*
+          - Migrationskonflikte
+      
       - job: "Psychotherapie "
         company: "IKVT Wiesbaden"
-        companyUrl: "https://example.com"
+        companyUrl: "https://www.ikvt.de/ambulanz.htm"
         date: "2024 - heute"
         info:
           enable: false
