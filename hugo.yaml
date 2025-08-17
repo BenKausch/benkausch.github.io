@@ -214,7 +214,7 @@ params:
     enable: true
     title: "Beruflicher Werdegang"
     items:
-      - job: "Psychologische Beratung "
+      - job: "Psychotherapeutische Beratung "
         company: "PBS der GU Frankfurt"
         companyUrl: "https://www.uni-frankfurt.de/120593878"
         date: "2025 - heute"
