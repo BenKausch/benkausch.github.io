@@ -1,6 +1,6 @@
 baseURL: "https://drkausch.de"
 languageCode: "de-de"
-title: "Psychologisches Coaching Frankfurt Dr. B. Kausch"
+title: "Psychologische Beratung Frankfurt Dr. B. Kausch"
 theme: hugo-profile
 
 outputs:
@@ -135,7 +135,7 @@ params:
     intro: "M.Sc. Psychologie"
     title: "Dr. Benjamin Kausch"
     subtitle: "Psychologe & Coach"
-    content: "Schön, dass Sie hier sind. Jeder Mensch erlebt Zeiten der Unsicherheit oder des inneren Wandels. Als psychologischer Coach in Frankfurt biete Ich Ihnen einen geschützten Raum, um diesen Herausforderungen mit Klarheit und neuen Perspektiven zu begegnen."
+    content: "Schön, dass Sie hier sind. Jeder Mensch erlebt Zeiten der Unsicherheit oder des inneren Wandels. Als psychologischer Berater in Frankfurt biete Ich Ihnen einen geschützten Raum, um diesen Herausforderungen mit Klarheit und neuen Perspektiven zu begegnen."
     image: /images/business_square.jpg
     roundImage: true
     bottomImage:
@@ -154,7 +154,7 @@ params:
     title: "Über mich"
     #image: "/images/business_square.jpg"
     content: |-
-      Mein Name ist Benjamin Kausch. Ich bin Psychologe M.Sc. und Coach sowie Psychologischer Psychotherapeut in Ausbildung. Ich biete Ihnen psychologisches Coaching online oder vor Ort im Rhein-Main-Gebiet (Frankfurt, Mainz, Wiesbaden und Umgebung).
+      Mein Name ist Benjamin Kausch. Ich bin Psychologe M.Sc. und Coach sowie Psychologischer Psychotherapeut in Ausbildung. Ich biete Ihnen psychologisches Coaching und Beratung online oder vor Ort im Rhein-Main-Gebiet (Frankfurt, Mainz, Wiesbaden und Umgebung).
       
       Ich coache mit wissenschaftlich fundierten Methoden der Kognitiven Verhaltenstherapie, ergänzt durch philosophisch-existenzielle Ansätze sowie einer biografischen Betrachtung Ihrer individuellen Lebensgeschichte. Mein Ziel ist es, Ihnen nicht nur kurzfristige Orientierung zu ermöglichen, sondern nachhaltige Wege zu mehr Selbstbestimmung, Klarheit und Zufriedenheit zu eröffnen.
       
