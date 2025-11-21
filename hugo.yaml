@@ -159,9 +159,7 @@ params:
       Ich coache mit wissenschaftlich fundierten Methoden der Kognitiven Verhaltenstherapie, ergänzt durch philosophisch-existenzielle Ansätze sowie einer biografischen Betrachtung Ihrer individuellen Lebensgeschichte. Mein Ziel ist es, Ihnen nicht nur kurzfristige Orientierung zu ermöglichen, sondern nachhaltige Wege zu mehr Selbstbestimmung, Klarheit und Zufriedenheit zu eröffnen.
       
       Ob Sie nach Unterstützung in einer akuten Krise suchen, sich mit tiefgehenden Lebensfragen beschäftigen oder neue Handlungsspielräume entdecken möchten – ich begleite Sie mit Fachwissen, Empathie und einem lösungsorientierten Blick.
-      
-      Ab 2026 biete ich zusätzlich psychotherapeutische Behandlungen als Psychologischer Psychotherapeut.
-      
+           
       Vereinbaren Sie gerne ein unverbindliches Erstgespräch – ich freue mich darauf, Sie kennenzulernen.
       
     skills:
@@ -202,11 +200,11 @@ params:
     title: "Therapeutische Ansätze"
     items:
       - title: Kognitive Verhaltenstherapie
-        content: Mittels der kognitiven Therapie er- und bearbeiten wir durch interessiert geleitetes Entdecken Ihre Erfahrungen und Einstellungen. Sie hinterfragen Überzeugungen, die Sie biografisch gelernt haben und beginnen, eine hilfreiche Sicht auf sich und die Welt zu entwickeln. Durch konkrete Übungen erarbeiten Sie sich nach und nach Verhaltensweisen, die Ihnen bislang schwer fallen.
+        content: Mittels Methoden der kognitiven Therapie er- und bearbeiten wir durch interessiert geleitetes Entdecken Ihre Erfahrungen und Einstellungen. Sie hinterfragen Überzeugungen, die Sie biografisch gelernt haben und beginnen, eine hilfreiche Sicht auf sich und die Welt zu entwickeln. Durch konkrete Übungen erarbeiten Sie sich nach und nach Verhaltensweisen, die Ihnen bislang schwer fallen.
       - title: Akzeptanz- und Commitmenttherapie (ACT)
         content: Die Akzeptanz- und Commitment-Therapie (ACT) hilft Ihnen dabei, schwierige Gedanken und Gefühle anzunehmen, anstatt gegen sie anzukämpfen. Durch Achtsamkeit, wertorientiertes Handeln und mehr psychische Flexibilität können Sie lernen, auch mit Herausforderungen ein erfülltes Leben zu führen. Ziel ist es, weniger von negativen Gedanken kontrolliert zu werden und sich stattdessen auf das zu konzentrieren, was Ihnen wirklich wichtig ist.
       - title: Existentielle Psychotherapie
-        content: In der existentiellen Psychotherapie beschäftigen wir uns mit den tiefen Fragen des Lebens, wie Freiheit, Verantwortung, Vergänglichkeit und Sinn. Anstatt Symptome nur zu bekämpfen, geht es darum, sich diesen Themen bewusst zu stellen und einen persönlichen Umgang damit zu finden. So können Sie mehr Klarheit, Selbstbestimmung und innere Zufriedenheit in Ihrem Leben entwickeln.
+        content: In der existentiellen Psychotherapie beschäftigen wir uns mit den tiefen Fragen des Lebens, wie Freiheit, Verantwortung, Vergänglichkeit und Sinn. Anstatt Probleme nur zu bekämpfen, geht es darum, sich diesen Themen bewusst zu stellen und einen persönlichen Umgang damit zu finden. So können Sie mehr Klarheit, Selbstbestimmung und innere Zufriedenheit in Ihrem Leben entwickeln.
 
   # Experience
   experience:
