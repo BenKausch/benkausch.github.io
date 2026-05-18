@@ -1,6 +1,6 @@
 baseURL: "https://drkausch.de"
 languageCode: "de-de"
-title: "Psychologische Beratung Frankfurt Dr. B. Kausch"
+title: "Psychotherapie Frankfurt Dr. B. Kausch"
 theme: hugo-profile
 
 outputs:
@@ -64,7 +64,7 @@ markup:
     #   weight: 2
 
 params:
-  description: Psychotherapeut i.A.
+  description: Psychologischer Psychotherapeut
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
@@ -132,10 +132,10 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "M.Sc. Psychologie"
+    intro: "Psychologischer Psychotherapeut"
     title: "Dr. Benjamin Kausch"
-    subtitle: "Psychologe & Coach"
-    content: "Schön, dass Sie hier sind. Jeder Mensch erlebt Zeiten der Unsicherheit oder des inneren Wandels. Als psychologischer Berater in Frankfurt biete Ich Ihnen einen geschützten Raum, um diesen Herausforderungen mit Klarheit und neuen Perspektiven zu begegnen."
+    subtitle: "Psychotherapie & Beratung"
+    content: "Schön, dass Sie hier sind. Jeder Mensch erlebt Zeiten der Unsicherheit oder des inneren Wandels. Als staatlich approbierter Psychologischer Psychotherapeut (Kognitive Verhaltenstherapie) in Frankfurt biete Ich Ihnen einen geschützten Raum, um diesen Herausforderungen mit Klarheit und neuen Perspektiven zu begegnen."
     image: /images/business_square.jpg
     roundImage: true
     bottomImage:
@@ -154,9 +154,9 @@ params:
     title: "Über mich"
     #image: "/images/business_square.jpg"
     content: |-
-      Mein Name ist Benjamin Kausch. Ich bin Psychologe M.Sc. und Coach sowie Psychologischer Psychotherapeut in Ausbildung. Ich biete Ihnen psychologisches Coaching und Beratung online oder vor Ort im Rhein-Main-Gebiet (Frankfurt Nordend).
+      Mein Name ist Benjamin Kausch. Ich bin Psychologischer Psychotherapeut und Coach. Ich biete Ihnen Psychotherapie (private Krankenkassen/PKV/Selbstzahler) sowie Coaching und Beratung im Frankfurter Nordend und online.
       
-      Ich coache mit wissenschaftlich fundierten Methoden der Kognitiven Verhaltenstherapie, ergänzt durch philosophisch-existenzielle Ansätze sowie einer biografischen Betrachtung Ihrer individuellen Lebensgeschichte. Mein Ziel ist es, Ihnen nicht nur kurzfristige Orientierung zu ermöglichen, sondern nachhaltige Wege zu mehr Selbstbestimmung, Klarheit und Zufriedenheit zu eröffnen.
+      Ich arbeite mit wissenschaftlich fundierten Methoden der Kognitiven Verhaltenstherapie, ergänzt durch philosophisch-existenzielle Ansätze sowie einer biografischen Betrachtung Ihrer individuellen Lebensgeschichte. Mein Ziel ist es, Ihnen nicht nur kurzfristige Verbesserung und Orientierung zu ermöglichen, sondern nachhaltige Wege zu mehr Selbstbestimmung, Klarheit und Zufriedenheit zu eröffnen.
       
       Ob Sie nach Unterstützung in einer akuten Krise suchen, sich mit tiefgehenden Lebensfragen beschäftigen oder neue Handlungsspielräume entdecken möchten – ich begleite Sie mit Fachwissen, Empathie und einem lösungsorientierten Blick.
            
@@ -164,29 +164,29 @@ params:
       
     skills:
       enable: true
-      title: "Meine Schwerpunkte beinhalten:"
+      title: "Meine therapeutischen Schwerpunkte beinhalten:"
       items:
-        - "Stärkung des Selbstbewusstseins und Selbstwertgefühls"
-        - "Überwindung von Perfektionismus und Selbstkritik"
-        - "Identitätsfindung und Werteklärung"
-        - "Förderung von Resilienz und emotionaler Stabilität"
-        - "Umgang mit Ängsten, inneren Konflikten und Selbstzweifeln"
-        - "Stressbewältigung und Burnout-Prävention"
-        - "Work-Life-Balance"
-        - "Stärkung von zwischenmenschlichen Beziehungen"
-        - "Verbessertes Durchsetzungsvermögen"
-        - "Umgang mit Lebensübergängen und Veränderung"
-        - "Gestaltung eines erfüllten und authentischen Lebens"
+        #- "Stärkung des Selbstbewusstseins und Selbstwertgefühls"
+        #- "Überwindung von Perfektionismus und Selbstkritik"
+        #- "Identitätsfindung und Werteklärung"
+        #- "Förderung von Resilienz und emotionaler Stabilität"
+        #- "Umgang mit Ängsten, inneren Konflikten und Selbstzweifeln"
+        #- "Stressbewältigung und Burnout-Prävention"
+        #- "Work-Life-Balance"
+        #- "Stärkung von zwischenmenschlichen Beziehungen"
+        #- "Verbessertes Durchsetzungsvermögen"
+        #- "Umgang mit Lebensübergängen und Veränderung"
+        #- "Gestaltung eines erfüllten und authentischen Lebens"
         
-        #- "Depressionen"
-        #- "Soziale Phobie"
-        #- "Panikattacken"
-        #- "Generalisierte Angststörung"
-        #- "Psychosomatische Störungen"
-        #- "Beziehungsprobleme"
-        #- "Posttraumatische Belastungsstörung (PTBS)"
-        #- "ADHS (Diagnostik und Behandlung)"
-        #- "Spezifische Phobien (Spinnen, Höhe, Tunnel, Fahrstühle, Fliegen, Hunde, Gewitter etc.)"
+        - "Depressionen"
+        - "Soziale Phobie"
+        - "Panikattacken"
+        - "Generalisierte Angststörung"
+        - "Psychosomatische Störungen"
+        - "Beziehungsprobleme"
+        - "Posttraumatische Belastungsstörung (PTBS)"
+        - "ADHS (Diagnostik und Behandlung)"
+        - "Spezifische Phobien (Spinnen, Höhe, Tunnel, Fahrstühle, Fliegen, Hunde, Gewitter etc.)"
 
 
   # Education
@@ -232,11 +232,11 @@ params:
       - job: "Psychotherapie "
         company: "IKVT Wiesbaden"
         companyUrl: "https://www.ikvt.de/ambulanz.htm"
-        date: "2024 - heute"
+        date: "2024 - 2026"
         info:
           enable: false
         content: |
-          Als Psychotherapeut in Ausbildung behandle ich Patienten der Ambulanz des IKVT Wiesbadens.
+          In der Ambulanz des IKVT Wiesbadens arbeitete ich als Psychotherapeut i. A.
 
           Behandlungsschwerpunkte:
           - Depression
@@ -290,7 +290,7 @@ params:
           Für ein unverbindliches Erstgespräch zu einem psychologischen Coaching kontaktieren Sie mich gerne per Mail. Ich melde mich zeitnah bei Ihnen. Für Online-Coaching berechne ich 100€/Stunde.
           
           
-          Für psychotherapeutische Behandlungen (privat versichert/PKV und Selbstzahler) kontaktieren Sie mich gerne für einen Platz auf der Warteliste - meine Praxis als Psychologischer Psychotherapeut eröffnet im Juni 2026 im Frankfurter Nordend.
+          Für psychotherapeutische Behandlungen (privat versichert/PKV und Selbstzahler) kontaktieren Sie mich gerne für ein Erstgespräch oder buchen Sie direkt ein erstes Gespräch über Doctolib.
     btnName: E-Mail
     email: encrypt
 
