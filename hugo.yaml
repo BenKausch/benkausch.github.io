@@ -291,12 +291,9 @@ params:
           
           Für ein unverbindliches Erstgespräch zu einem psychologischen Coaching kontaktieren Sie mich gerne per Mail. Ich melde mich zeitnah bei Ihnen. Für Online-Coaching berechne ich 120€/Stunde.
           
-    buttons:      
-    - btnName: E-Mail
-      email: encrypt
+    btnName: E-Mail
+    email: encrypt
 # &#109;&#97;&#105;&#108;&#116;&#111;&#58;%62%65%6E%2E%6B%61%75%73%63%68%40%70%6F%73%74%65%6F%2E%64%65
-    - btnName: Terminbuchung
-      url: "https://www.doctolib.de/psychologischer-psychotherapeut-psychotherapeutin/frankfurt-am-main/benjamin-kausch"
 
   # List pages like blogs and posts
   listPages:
