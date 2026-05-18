@@ -136,7 +136,7 @@ params:
     title: "Dr. Benjamin Kausch"
     subtitle: "Psychotherapie & Beratung"
     content: "Schön, dass Sie hier sind. Jeder Mensch erlebt Zeiten der Unsicherheit oder des inneren Wandels. Als staatlich approbierter Psychologischer Psychotherapeut (Kognitive Verhaltenstherapie) in Frankfurt biete Ich Ihnen einen geschützten Raum, um diesen Herausforderungen mit Klarheit und neuen Perspektiven zu begegnen."
-    image: /images/business_square.jpg
+    image: /images/portrait_green_2026.jpg
     roundImage: true
     bottomImage:
       enable: false
