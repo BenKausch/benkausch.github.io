@@ -18,20 +18,20 @@ Benjamin Kausch
 Hebelstr. 11  
 60318 Frankfurt am Main
 
-## Gesetzliche Berufsbezeichnung
+### Gesetzliche Berufsbezeichnung
 Psychologischer Psychotherapeut (Dr. Benjamin Kausch), verliehen in der Bundesrepublik Deutschland.  
 
-## Zuständige Kammer (Aufsichtsbehörde)
+### Zuständige Kammer (Aufsichtsbehörde)
 Psychotherapeutenkammer Hessen  
 Frankfurter Str. 8  
 65189 Wiesbaden  
 
-## Zuständige Kassenärztliche Vereinigung
+### Zuständige Kassenärztliche Vereinigung
 Kassenärztliche Vereinigung Hessen  
 Europa-Allee 90  
 60486 Frankfurt am Main  
 
-## Berufsrechtliche Regelungen
+### Berufsrechtliche Regelungen
 Berufsordnung der Landeskammer für Psychologische Psychotherapeutinnen und -therapeuten und Kinder- und Jugendlichenpsychotherapeutinnen und -therapeuten Hessen: https://ptk-hessen.de/download/berufsordnung/  
 
 Gesetz über die Berufe des Psychologischen Psychotherapeuten und des Kinder- und Jugendlichenpsychotherapeuten (Psychotherapeutengesetz – PsychThG): https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html  
@@ -53,7 +53,7 @@ Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir
 
 Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
 
-## Urherberrecht
+### Urherberrecht
 Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
 
 Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
