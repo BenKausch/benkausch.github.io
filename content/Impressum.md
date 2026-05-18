@@ -19,24 +19,24 @@ Hebelstr. 11
 60318 Frankfurt am Main
 
 ## Gesetzliche Berufsbezeichnung
-Psychologischer Psychotherapeut (Dr. Benjamin Kausch), verliehen in der Bundesrepublik Deutschland.
+Psychologischer Psychotherapeut (Dr. Benjamin Kausch), verliehen in der Bundesrepublik Deutschland.  
 
-## Zuständige Kammer (Aufsichtsbehörde):
-Psychotherapeutenkammer Hessen
-Frankfurter Str. 8
-65189 Wiesbaden
+## Zuständige Kammer (Aufsichtsbehörde)
+Psychotherapeutenkammer Hessen  
+Frankfurter Str. 8  
+65189 Wiesbaden  
 
-## Zuständige Kassenärztliche Vereinigung:
-Kassenärztliche Vereinigung Hessen
-Europa-Allee 90
-60486 Frankfurt am Main
+## Zuständige Kassenärztliche Vereinigung
+Kassenärztliche Vereinigung Hessen  
+Europa-Allee 90  
+60486 Frankfurt am Main  
 
-## Berufsrechtliche Regelungen:
-Berufsordnung der Landeskammer für Psychologische Psychotherapeutinnen und -therapeuten und Kinder- und Jugendlichenpsychotherapeutinnen und -therapeuten Hessen: https://ptk-hessen.de/download/berufsordnung/
+## Berufsrechtliche Regelungen
+Berufsordnung der Landeskammer für Psychologische Psychotherapeutinnen und -therapeuten und Kinder- und Jugendlichenpsychotherapeutinnen und -therapeuten Hessen: https://ptk-hessen.de/download/berufsordnung/  
 
-Gesetz über die Berufe des Psychologischen Psychotherapeuten und des Kinder- und Jugendlichenpsychotherapeuten (Psychotherapeutengesetz – PsychThG): https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html
+Gesetz über die Berufe des Psychologischen Psychotherapeuten und des Kinder- und Jugendlichenpsychotherapeuten (Psychotherapeutengesetz – PsychThG): https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html  
 
-Gesetz über die Berufsvertretungen, die Berufsausübung, die Weiterbildung und die Berufsgerichtsbarkeit der Ärzte, Zahnärzte, Tierärzte, Apotheker, Psychologischen Psychotherapeuten und Kinder- und Jugendlichenpsychotherapeuten (Heilberufsgesetz): https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-%C3%84WeitBiGHEpG1
+Gesetz über die Berufsvertretungen, die Berufsausübung, die Weiterbildung und die Berufsgerichtsbarkeit der Ärzte, Zahnärzte, Tierärzte, Apotheker, Psychologischen Psychotherapeuten und Kinder- und Jugendlichenpsychotherapeuten (Heilberufsgesetz): https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-%C3%84WeitBiGHEpG1  
 
 ### Streitschlichtung
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr. Unsere E-Mail-Adresse finden Sie oben im Impressum.
