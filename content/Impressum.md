@@ -19,7 +19,7 @@ Hebelstr. 11
 60318 Frankfurt am Main
 
 ## Gesetzliche Berufsbezeichnung
-Psychologischer Psychotherapeut (Dr. Benjamin Kausch), verliehen in der Bundesrepublik Deutschland
+Psychologischer Psychotherapeut (Dr. Benjamin Kausch), verliehen in der Bundesrepublik Deutschland.
 
 ## Zuständige Kammer (Aufsichtsbehörde):
 Psychotherapeutenkammer Hessen
