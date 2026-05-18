@@ -154,7 +154,7 @@ params:
     title: "Über mich"
     #image: "/images/business_square.jpg"
     content: |-
-      Mein Name ist Benjamin Kausch. Ich bin Psychologischer Psychotherapeut und Coach. Ich biete Ihnen Psychotherapie (private Krankenkassen/PKV/Selbstzahler) sowie Coaching und Beratung im Frankfurter Nordend und online.
+      Mein Name ist Benjamin Kausch. Ich bin approbierter Psychologischer Psychotherapeut. Ich biete Ihnen Psychotherapie (private Krankenkassen/PKV/Selbstzahler) sowie Coaching und Beratung im Frankfurter Nordend und online.
       
       Ich arbeite mit wissenschaftlich fundierten Methoden der Kognitiven Verhaltenstherapie, ergänzt durch philosophisch-existenzielle Ansätze sowie einer biografischen Betrachtung Ihrer individuellen Lebensgeschichte. Mein Ziel ist es, Ihnen nicht nur kurzfristige Verbesserung und Orientierung zu ermöglichen, sondern nachhaltige Wege zu mehr Selbstbestimmung, Klarheit und Zufriedenheit zu eröffnen.
       
@@ -287,10 +287,11 @@ params:
     enable: true
     title: "Kontakt"
     content:  |
-          Für ein unverbindliches Erstgespräch zu einem psychologischen Coaching kontaktieren Sie mich gerne per Mail. Ich melde mich zeitnah bei Ihnen. Für Online-Coaching berechne ich 100€/Stunde.
+          Für psychotherapeutische Behandlungen (privat versichert/PKV und Selbstzahler, Abrechnung nach GOP/GOÄ) kontaktieren Sie mich gerne für ein Erstgespräch oder buchen Sie direkt ein erstes Gespräch über Doctolib.
+          
+          Für ein unverbindliches Erstgespräch zu einem psychologischen Coaching kontaktieren Sie mich gerne per Mail. Ich melde mich zeitnah bei Ihnen. Für Online-Coaching berechne ich 120€/Stunde.
           
           
-          Für psychotherapeutische Behandlungen (privat versichert/PKV und Selbstzahler) kontaktieren Sie mich gerne für ein Erstgespräch oder buchen Sie direkt ein erstes Gespräch über Doctolib.
     btnName: E-Mail
     email: encrypt
 
