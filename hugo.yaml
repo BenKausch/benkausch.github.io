@@ -1,7 +1,300 @@
 baseURL: "https://drkausch.de"
-languageCode: "de-de"
 title: "Psychotherapie Frankfurt Dr. B. Kausch"
 theme: hugo-profile
+
+defaultContentLanguage: de
+defaultContentLanguageInSubdir: false
+
+languages:
+  de:
+    locale: de-de
+    label: Deutsch
+    weight: 1
+    title: "Psychotherapie Frankfurt | Dr. Benjamin Kausch"
+    params:
+      description: "Psychologischer Psychotherapeut in Frankfurt – Kognitive Verhaltenstherapie, Coaching und Beratung, auf Deutsch und Englisch, in der Praxis und online."
+
+      hero:
+        enable: true
+        intro: "Psychologischer Psychotherapeut"
+        title: "Dr. Benjamin Kausch"
+        subtitle: "Psychotherapie & Beratung"
+        content: "Schön, dass Sie hier sind. Wir alle erleben Phasen der Unsicherheit, des Zweifels oder des inneren Wandels – Momente, in denen wir nicht weiterzukommen scheinen. Als staatlich approbierter Psychologischer Psychotherapeut (Kognitive Verhaltenstherapie) in Frankfurt biete ich Ihnen einen geschützten Raum, um solchen Herausforderungen mit mehr Klarheit und einer neuen Perspektive zu begegnen."
+        image: /images/portrait_light_2026.jpg
+        roundImage: true
+        bottomImage:
+          enable: false
+        button:
+          enable: true
+          name: "Kontakt"
+          url: "#contact"
+          download: true
+          newPage: false
+
+      about:
+        enable: true
+        title: "Über mich"
+        content: |-
+          Mein Name ist Benjamin Kausch, und ich bin approbierter Psychologischer Psychotherapeut. Ich biete Ihnen Psychotherapie auf Deutsch und Englisch (private Krankenversicherung/PKV und Selbstzahler) sowie Coaching und Beratung – im Frankfurter Nordend und online.
+
+          Meine Arbeit stützt sich auf wissenschaftlich fundierte Methoden der Kognitiven Verhaltenstherapie, ergänzt durch existenzielle und philosophische Perspektiven und einen aufmerksamen Blick auf Ihre persönliche Lebensgeschichte. Dabei geht es mir um mehr als rasche Lösungen: Mein Ziel ist es, gemeinsam mit Ihnen nachhaltige Wege zu mehr Selbstbestimmung, Klarheit und einem Leben zu finden, das sich für Sie stimmig anfühlt.
+
+          Ob Sie in einer akuten Krise Unterstützung suchen, sich mit tieferen Lebensfragen beschäftigen oder einfach Raum zum Wachsen wünschen – ich begleite Sie mit Fachwissen, echter Empathie und einem praktischen, lösungsorientierten Blick.
+
+          Wenn Sie das anspricht, lade ich Sie herzlich zu einem unverbindlichen Erstgespräch ein. Ich freue mich darauf, Sie kennenzulernen.
+
+        skills:
+          enable: true
+          title: "Meine therapeutischen Schwerpunkte beinhalten:"
+          items:
+            - "Depressionen"
+            - "Soziale Phobie"
+            - "Panikattacken"
+            - "Generalisierte Angststörung"
+            - "Psychosomatische Störungen"
+            - "Beziehungsprobleme"
+            - "Posttraumatische Belastungsstörung (PTBS)"
+            - "ADHS (Diagnostik und Behandlung)"
+            - "Spezifische Phobien (Spinnen, Höhe, Tunnel, Fahrstühle, Fliegen, Hunde, Gewitter etc.)"
+
+      achievements:
+        enable: true
+        title: "Therapeutische Ansätze"
+        items:
+          - title: Kognitive Verhaltenstherapie
+            content: In der kognitiven Therapie erkunden wir Ihre Erfahrungen und Überzeugungen gemeinsam – im Geist eines neugierigen, behutsam begleiteten Entdeckens. Sie beginnen, Überzeugungen zu hinterfragen, die Sie seit früher Zeit in sich tragen, und entwickeln nach und nach einen freundlicheren, hilfreicheren Blick auf sich und die Welt. Durch konkrete, schrittweise Übungen gewinnen Sie Sicherheit in Verhaltensweisen, die Ihnen bislang schwergefallen sind.
+          - title: Akzeptanz- und Commitmenttherapie (ACT)
+            content: Die ACT hilft Ihnen, schwierigen Gedanken und Gefühlen Raum zu geben, statt gegen sie anzukämpfen. Durch Achtsamkeit, wertorientiertes Handeln und mehr psychische Flexibilität können Sie auch dann ein erfülltes Leben gestalten, wenn Herausforderungen bestehen bleiben. Es geht nicht darum, belastende Gedanken zum Schweigen zu bringen, sondern ihren Einfluss zu lockern – damit Sie Ihre Kraft dem widmen können, was Ihnen wirklich wichtig ist.
+          - title: Existentielle Psychotherapie
+            content: Die existenzielle Arbeit widmet sich den tiefen Fragen, die uns alle betreffen – Freiheit, Verantwortung, Vergänglichkeit und Sinn. Statt Probleme einfach beseitigen zu wollen, wenden wir uns diesen Themen offen zu und finden Ihren persönlichen Weg, mit ihnen zu leben. Daraus entsteht für viele Menschen ein neues Gefühl von Klarheit, Selbstbestimmung und stiller Zufriedenheit.
+
+      experience:
+        enable: true
+        title: "Beruflicher Werdegang"
+        items:
+          - job: "Psychotherapeutische Beratung "
+            company: "PBS der GU Frankfurt"
+            companyUrl: "https://www.uni-frankfurt.de/120593878"
+            date: "2025 - heute"
+            info:
+              enable: false
+            content: |
+              An der Psychotherapeutische Beratungsstelle der Goethe-Universität Frankfurt biete ich psychologische Beratung für Studierende.
+
+              Themen:
+              - Schwierigkeiten im Studium, z.B. Prüfungsängste, Aufschieben (Prokrastination), Lernblockaden
+              - Emotionale Schwierigkeiten
+              - Zwischenmenschliche Probleme, z.B. Konflikte mit Familie, Freunden oder in der Partnerschaft
+              - ADHS-artige Symptome wie Unaufmerksamkeit, Impulsivität, Vergesslichkeit, Unruhe
+              - Identitätsfragen
+              - LSBTIQ* / LGBTQI*
+              - Migrationskonflikte
+
+          - job: "Psychotherapie "
+            company: "IKVT Wiesbaden"
+            companyUrl: "https://www.ikvt.de/ambulanz.htm"
+            date: "2024 - 2026"
+            info:
+              enable: false
+            content: |
+              In der Ambulanz des IKVT Wiesbadens arbeitete ich als Psychotherapeut i. A.
+
+              Behandlungsschwerpunkte:
+              - Depression
+              - Soziale Ängste, Selbstwertprobleme
+              - Generalisierte Angststörung, Chronisches Grübeln
+              - Krankheitsängste, Existentielle Ängste
+              - ADHS-Diagnostik und -Behandlung
+              - Posttraumatische Belastungsstörung (PTBS)
+
+          - job: "Bezugstherapeut"
+            company: "MEDIAN Hohenfeld-Klinik"
+            companyUrl: "https://www.median-kliniken.de/de/median-hohenfeld-klinik-bad-camberg/behandlungsgebiete/psychosomatik/"
+            date: "2023 - 2024"
+            info:
+              enable: false
+            content: |
+              Behandlungsschwerpunkte:
+              - Burnout
+              - Stressresistenz
+              - Arbeitsplatzkonflikte
+              - Anpassungsstörungen
+              - Schmerzsstörungen und Schmerztherapie
+              - Depression
+
+          - job: "Bezugstherapeut"
+            company: "MEDIAN Klinik am Waldsee"
+            companyUrl: "https://www.median-kliniken.de/de/median-klinik-am-waldsee/ueber-uns/"
+            date: "2022 - 2023"
+            info:
+              enable: false
+            content: |
+              Behandlungsschwerpunkte:
+              - Sucht und Abhängigkeit
+              - Psychosen
+              - Schizophrenie
+              - Depression
+              - Persönlichkeitsstörungen / Borderline-PS
+              - ADHS
+              - Posttraumatische Belastungsstörung (PTBS)
+
+      contact:
+        enable: true
+        title: "Kontakt"
+        content: |
+          Für eine psychotherapeutische Behandlung (privat versichert/PKV und Selbstzahler, Abrechnung nach GOP/GOÄ) melden Sie sich gerne für ein Erstgespräch – oder buchen Sie direkt einen ersten Termin über Doctolib.
+
+          Wenn Sie ein unverbindliches Gespräch zu einem psychologischen Coaching wünschen, schreiben Sie mir einfach eine E-Mail. Ich melde mich zeitnah bei Ihnen. Online-Coaching biete ich zu 120 € pro Stunde an.
+
+          Therapie und Beratung biete ich auf Deutsch und Englisch an.
+
+        btnName: E-Mail
+        email: encrypt
+
+  en:
+    locale: en-gb
+    label: English
+    weight: 2
+    title: "English-Speaking Psychotherapist in Frankfurt | Dr. Benjamin Kausch"
+    params:
+      description: "English-speaking psychotherapist in Frankfurt – Cognitive Behavioural Therapy, coaching and counselling, in person and online."
+
+      hero:
+        enable: true
+        intro: "Psychologist and Psychotherapist"
+        title: "Dr. Benjamin Kausch"
+        subtitle: "Psychotherapy & Counselling"
+        content: "I'm glad you're here. We all run into stuck points — times of uncertainty, doubt, or quiet change. As an English-speaking, licensed Psychological Psychotherapist (Cognitive Behavioural Therapy) in Frankfurt, I offer you a safe, confidential space to meet those moments with greater clarity and a fresh perspective."
+        image: /images/portrait_light_2026.jpg
+        roundImage: true
+        bottomImage:
+          enable: false
+        button:
+          enable: true
+          name: "Contact"
+          url: "#contact"
+          download: true
+          newPage: false
+
+      about:
+        enable: true
+        title: "About me"
+        content: |-
+          My name is Benjamin Kausch, and I'm a licensed Psychological Psychotherapist offering therapy in both English and German. I work with clients for psychotherapy (for those with private health insurance and those paying privately), as well as coaching and counselling — in Frankfurt's Nordend district and online.
+
+          My work draws on evidence-based Cognitive Behavioural Therapy, enriched by existential and philosophical perspectives and a close attention to your own life story. I'm interested in more than quick fixes: my aim is to help you find lasting ways toward greater self-determination, clarity, and a life that feels genuinely your own.
+
+          Whether you're facing an acute crisis, sitting with deeper questions about your life, or simply looking for room to grow, I'll work alongside you — with professional expertise, genuine empathy, and a practical, solution-focused approach.
+
+          If any of this resonates, I warmly invite you to get in touch for an initial conversation, with no obligation. I look forward to meeting you.
+
+        skills:
+          enable: true
+          title: "My therapeutic focus areas include:"
+          items:
+            - "Depression"
+            - "Social Phobia"
+            - "Panic Attacks"
+            - "Generalized Anxiety Disorder"
+            - "Psychosomatic Disorders"
+            - "Relationship Problems"
+            - "Post-Traumatic Stress Disorder (PTSD)"
+            - "ADHD (Diagnosis and Treatment)"
+            - "Specific Phobias (spiders, heights, tunnels, elevators, flying, dogs, thunderstorms, etc.)"
+
+      achievements:
+        enable: true
+        title: "Therapeutic Approaches"
+        items:
+          - title: Cognitive Behavioural Therapy
+            content: Through cognitive therapy, we explore your experiences and beliefs together in a spirit of curious, guided discovery. You begin to question convictions you've carried since early in life and to develop a kinder, more helpful view of yourself and the world. With practical, step-by-step exercises, you gradually build confidence in ways of acting that may have felt out of reach before.
+          - title: Acceptance and Commitment Therapy (ACT)
+            content: ACT helps you make room for difficult thoughts and feelings rather than struggling against them. Through mindfulness, values-led action, and greater psychological flexibility, you can build a meaningful life even when challenges remain. The aim isn't to silence painful thoughts, but to loosen their grip — so you can put your energy into what truly matters to you.
+          - title: Existential Psychotherapy
+            content: Existential work engages the deeper questions we all face — freedom, responsibility, mortality, and meaning. Rather than simply trying to make problems go away, we turn toward these themes openly and find your own way of living with them. From there, many people discover a renewed sense of clarity, agency, and quiet contentment.
+
+      experience:
+        enable: true
+        title: "Professional Background"
+        items:
+          - job: "Psychotherapeutic Counseling"
+            company: "PBS, Goethe University Frankfurt"
+            companyUrl: "https://www.uni-frankfurt.de/120593878"
+            date: "2025 – present"
+            info:
+              enable: false
+            content: |
+              At the Psychotherapeutic Counselling Service of Goethe University Frankfurt, I provide psychological counselling for students.
+
+              Areas I work with:
+              - Study-related struggles, such as exam anxiety, procrastination, and learning blocks
+              - Emotional difficulties
+              - Relationship and interpersonal problems — with family, friends, or partners
+              - ADHD-like symptoms such as inattention, impulsivity, forgetfulness, and restlessness
+              - Questions of identity
+              - LGBTQI*
+              - Challenges relating to migration and belonging
+
+          - job: "Psychotherapy"
+            company: "IKVT Wiesbaden"
+            companyUrl: "https://www.ikvt.de/ambulanz.htm"
+            date: "2024 – 2026"
+            info:
+              enable: false
+            content: |
+              At the outpatient clinic of IKVT Wiesbaden, I worked as a psychotherapist in training.
+
+              Main areas of treatment:
+              - Depression
+              - Social anxiety, self-esteem difficulties
+              - Generalized anxiety disorder, chronic worry
+              - Health anxiety, existential anxiety
+              - ADHD diagnosis and treatment
+              - Post-Traumatic Stress Disorder (PTSD)
+
+          - job: "Primary Therapist"
+            company: "MEDIAN Hohenfeld-Klinik"
+            companyUrl: "https://www.median-kliniken.de/de/median-hohenfeld-klinik-bad-camberg/behandlungsgebiete/psychosomatik/"
+            date: "2023 – 2024"
+            info:
+              enable: false
+            content: |
+              Main areas of treatment:
+              - Burnout
+              - Stress resilience
+              - Workplace conflicts
+              - Adjustment disorders
+              - Chronic pain and pain management
+              - Depression
+
+          - job: "Primary Therapist"
+            company: "MEDIAN Klinik am Waldsee"
+            companyUrl: "https://www.median-kliniken.de/de/median-klinik-am-waldsee/ueber-uns/"
+            date: "2022 – 2023"
+            info:
+              enable: false
+            content: |
+              Main areas of treatment:
+              - Addiction and substance dependence
+              - Psychosis
+              - Schizophrenia
+              - Depression
+              - Personality disorders / Borderline PD
+              - ADHD
+              - Post-Traumatic Stress Disorder (PTSD)
+
+      contact:
+        enable: true
+        title: "Contact"
+        content: |
+          For psychotherapy (private health insurance or self-pay, billed according to the German GOP/GOÄ fee schedule), do get in touch to arrange an initial consultation, or book your first appointment directly through Doctolib.
+
+          If you'd like a no-obligation conversation about psychological coaching, simply send me an email — I'll get back to you soon. Online coaching is offered at €120 per hour.
+
+          I offer therapy and counselling in both German and English.
+
+        btnName: Email
+        email: encrypt
 
 outputs:
   home:
@@ -14,12 +307,6 @@ outputs:
 
 enableRobotsTXT: true
 
-#services:
-  #googleAnalytics:
-    #id: G-MEASUREMENT_ID
-  #disqus:
-    #shortname: your-disqus-shortname
-
 pagination:
   pagerSize: 3
 
@@ -28,69 +315,22 @@ markup:
     renderer:
       unsafe: true
 
-#Menus:
-#  main:
-    #- identifier: Impressum
-    #  name: Impressum
-    #  title: Impressum
-    #  url: /impressum
-    #  weight: 1
-    #- identifier: Datenschutz
-    #  name: Datenschutz
-    #  title: Datenschutz
-    #  url: /datenschutz
-    #  weight: 2
-    #- identifier: gallery
-    #  name: Gallery
-    #  title: Blog posts
-    #  url: /gallery
-    #  weight: 2
-    #Dropdown menu
-    # - identifier: dropdown
-    #   title: Example dropdown menu
-    #   name: Dropdown
-    #   weight: 3
-    # - identifier: dropdown1
-    #   title: example dropdown 1
-    #   name: example 1
-    #   url: /#
-    #   parent: dropdown
-    #   weight: 1
-    # - identifier: dropdown2
-    #   title: example dropdown 2
-    #   name: example 2
-    #   url: /#
-    #   parent: dropdown
-    #   weight: 2
-
 params:
-  description: Psychologischer Psychotherapeut
-  # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
-
-  # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
-  # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
-  # Note the lack of "" in true, it should be of boolean type.
   useBootstrapCDN: false
-
-  # Whether to add mathjax support on all pages. Alternatively, you can opt-in per page by adding `mathjax: true` in the frontmatter.
   mathjax: false
-
-  # Whether the fade animations on the home page will be enabled
   animate: true
 
   theme:
     # disableThemeToggle: true
-    # defaultTheme: "light" # dark
+    # defaultTheme: "light"
 
   font:
-    fontSize: 1rem # default: 1rem
-    fontWeight: 400 # default: 400
-    lineHeight: 1.5 # default: 1.5
-    textAlign: left # default: left
-    
-  # color preference
-  # When using hex codes for colors, quotations must be used along with the # sign
+    fontSize: 1rem
+    fontWeight: 400
+    lineHeight: 1.5
+    textAlign: left
+
   color:
     textColor: "#343a40"
     secondaryTextColor: "#6c757d"
@@ -99,7 +339,7 @@ params:
     secondaryBackgroundColor: "#64ffda1a"
     primaryColor: "#007bff"
     secondaryColor: "#f8f9fa"
-     
+
   darkmode:
     textColor: "#e4e6eb"
     secondaryTextColor: "#b0b3b8"
@@ -109,17 +349,13 @@ params:
     primaryColor: "#ffffff"
     secondaryColor: "#212529"
 
-  # If you want to customize the menu, you can change it here
   navbar:
-    align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
-    # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
-    # showBrandLogo: false # Show brand logo in nav bar | default is true
-    brandName: "Dr. Benjamin Kausch M.Sc." # Brand name for the brand | default is the title variable
+    align: ms-auto
+    brandName: "Dr. Benjamin Kausch M.Sc."
     disableSearch: true
-    # searchPlaceholder: "Search"
     stickyNavBar:
-      enable : true
-      showOnScrollUp : true
+      enable: true
+      showOnScrollUp: true
     enableSeparator: false
     menus:
       disableAbout: false
@@ -129,177 +365,15 @@ params:
       disableAchievements: false
       disableContact: false
 
-  # Hero
-  hero:
-    enable: true
-    intro: "Psychologischer Psychotherapeut"
-    title: "Dr. Benjamin Kausch"
-    subtitle: "Psychotherapie & Beratung"
-    content: "Schön, dass Sie hier sind. Jeder Mensch erlebt Blockaden und Zeiten der Unsicherheit oder des inneren Wandels. Als staatlich approbierter Psychologischer Psychotherapeut (Kognitive Verhaltenstherapie) in Frankfurt biete Ich Ihnen einen geschützten Raum, um diesen Herausforderungen mit Klarheit und neuen Perspektiven zu begegnen."
-    image: /images/portrait_light_2026.jpg
-    roundImage: true
-    bottomImage:
-      enable: false
-      roundImage: true # Make hero image circular | default false
-    button:
-      enable: true
-      name: "Kontakt"
-      url: "#contact"
-      download: true
-      newPage: false
-
-  # About
-  about:
-    enable: true
-    title: "Über mich"
-    #image: "/images/business_square.jpg"
-    content: |-
-      Mein Name ist Benjamin Kausch. Ich bin approbierter Psychologischer Psychotherapeut. Ich biete Ihnen Psychotherapie (private Krankenkassen/PKV/Selbstzahler) sowie Coaching und Beratung im Frankfurter Nordend und online.
-      
-      Ich arbeite mit wissenschaftlich fundierten Methoden der Kognitiven Verhaltenstherapie, ergänzt durch philosophisch-existenzielle Ansätze sowie einer biografischen Betrachtung Ihrer individuellen Lebensgeschichte. Mein Ziel ist es, Ihnen nicht nur kurzfristige Verbesserung und Orientierung zu ermöglichen, sondern nachhaltige Wege zu mehr Selbstbestimmung, Klarheit und Zufriedenheit zu eröffnen.
-      
-      Ob Sie nach Unterstützung in einer akuten Krise suchen, sich mit tiefgehenden Lebensfragen beschäftigen oder neue Handlungsspielräume entdecken möchten – ich begleite Sie mit Fachwissen, Empathie und einem lösungsorientierten Blick.
-           
-      Vereinbaren Sie gerne ein unverbindliches Erstgespräch – ich freue mich darauf, Sie kennenzulernen.
-      
-    skills:
-      enable: true
-      title: "Meine therapeutischen Schwerpunkte beinhalten:"
-      items:
-        #- "Stärkung des Selbstbewusstseins und Selbstwertgefühls"
-        #- "Überwindung von Perfektionismus und Selbstkritik"
-        #- "Identitätsfindung und Werteklärung"
-        #- "Förderung von Resilienz und emotionaler Stabilität"
-        #- "Umgang mit Ängsten, inneren Konflikten und Selbstzweifeln"
-        #- "Stressbewältigung und Burnout-Prävention"
-        #- "Work-Life-Balance"
-        #- "Stärkung von zwischenmenschlichen Beziehungen"
-        #- "Verbessertes Durchsetzungsvermögen"
-        #- "Umgang mit Lebensübergängen und Veränderung"
-        #- "Gestaltung eines erfüllten und authentischen Lebens"
-        
-        - "Depressionen"
-        - "Soziale Phobie"
-        - "Panikattacken"
-        - "Generalisierte Angststörung"
-        - "Psychosomatische Störungen"
-        - "Beziehungsprobleme"
-        - "Posttraumatische Belastungsstörung (PTBS)"
-        - "ADHS (Diagnostik und Behandlung)"
-        - "Spezifische Phobien (Spinnen, Höhe, Tunnel, Fahrstühle, Fliegen, Hunde, Gewitter etc.)"
-
-
-  # Education
   education:
     enable: false
 
-
-  # Achievements
-  achievements:
-    enable: true
-    title: "Therapeutische Ansätze"
-    items:
-      - title: Kognitive Verhaltenstherapie
-        content: Mittels Methoden der kognitiven Therapie er- und bearbeiten wir durch interessiert geleitetes Entdecken Ihre Erfahrungen und Einstellungen. Sie hinterfragen Überzeugungen, die Sie biografisch gelernt haben und beginnen, eine hilfreiche Sicht auf sich und die Welt zu entwickeln. Durch konkrete Übungen erarbeiten Sie sich nach und nach Verhaltensweisen, die Ihnen bislang schwer fallen.
-      - title: Akzeptanz- und Commitmenttherapie (ACT)
-        content: Die Akzeptanz- und Commitment-Therapie (ACT) hilft Ihnen dabei, schwierige Gedanken und Gefühle anzunehmen, anstatt gegen sie anzukämpfen. Durch Achtsamkeit, wertorientiertes Handeln und mehr psychische Flexibilität können Sie lernen, auch mit Herausforderungen ein erfülltes Leben zu führen. Ziel ist es, weniger von negativen Gedanken kontrolliert zu werden und sich stattdessen auf das zu konzentrieren, was Ihnen wirklich wichtig ist.
-      - title: Existentielle Psychotherapie
-        content: In der existentiellen Psychotherapie beschäftigen wir uns mit den tiefen Fragen des Lebens, wie Freiheit, Verantwortung, Vergänglichkeit und Sinn. Anstatt Probleme nur zu bekämpfen, geht es darum, sich diesen Themen bewusst zu stellen und einen persönlichen Umgang damit zu finden. So können Sie mehr Klarheit, Selbstbestimmung und innere Zufriedenheit in Ihrem Leben entwickeln.
-
-  # Experience
-  experience:
-    enable: true
-    title: "Beruflicher Werdegang"
-    items:
-      - job: "Psychotherapeutische Beratung "
-        company: "PBS der GU Frankfurt"
-        companyUrl: "https://www.uni-frankfurt.de/120593878"
-        date: "2025 - heute"
-        info:
-          enable: false
-        content: |
-          An der Psychotherapeutische Beratungsstelle der Goethe-Universität Frankfurt biete ich psychologische Beratung für Studierende.
-
-          Themen:
-          - Schwierigkeiten im Studium, z.B. Prüfungsängste, Aufschieben (Prokrastination), Lernblockaden
-          - Emotionale Schwierigkeiten
-          - Zwischenmenschliche Probleme, z.B. Konflikte mit Familie, Freunden oder in der Partnerschaft
-          - ADHS-artige Symptome wie Unaufmerksamkeit, Impulsivität, Vergesslichkeit, Unruhe
-          - Identitätsfragen
-          - LSBTIQ* / LGBTQI*
-          - Migrationskonflikte
-      
-      - job: "Psychotherapie "
-        company: "IKVT Wiesbaden"
-        companyUrl: "https://www.ikvt.de/ambulanz.htm"
-        date: "2024 - 2026"
-        info:
-          enable: false
-        content: |
-          In der Ambulanz des IKVT Wiesbadens arbeitete ich als Psychotherapeut i. A.
-
-          Behandlungsschwerpunkte:
-          - Depression
-          - Soziale Ängste, Selbstwertprobleme
-          - Generalisierte Angststörung, Chronisches Grübeln
-          - Krankheitsängste, Existentielle Ängste
-          - ADHS-Diagnostik und -Behandlung
-          - Posttraumatische Belastungsstörung (PTBS)
-
-      - job: "Bezugstherapeut"
-        company: "MEDIAN Hohenfeld-Klinik"
-        companyUrl: "https://www.median-kliniken.de/de/median-hohenfeld-klinik-bad-camberg/behandlungsgebiete/psychosomatik/"
-        date: "2023 - 2024"
-        info:
-          enable: false
-        content: |
-          Behandlungsschwerpunkte:
-          - Burnout
-          - Stressresistenz
-          - Arbeitsplatzkonflikte
-          - Anpassungsstörungen
-          - Schmerzsstörungen und Schmerztherapie
-          - Depression
-
-      - job: "Bezugstherapeut"
-        company: "MEDIAN Klinik am Waldsee"
-        companyUrl: "https://www.median-kliniken.de/de/median-klinik-am-waldsee/ueber-uns/"
-        date: "2022 - 2023"
-        info:
-          enable: false
-        content: |
-          Behandlungsschwerpunkte:
-          - Sucht und Abhängigkeit
-          - Psychosen
-          - Schizophrenie 
-          - Depression
-          - Persönlichkeitsstörungen / Borderline-PS
-          - ADHS
-          - Posttraumatische Belastungsstörung (PTBS)
-
-
-  # projects
   projects:
     enable: false
 
-  #Contact
-  contact:
-    enable: true
-    title: "Kontakt"
-    content:  |
-          Für psychotherapeutische Behandlungen (privat versichert/PKV und Selbstzahler, Abrechnung nach GOP/GOÄ) kontaktieren Sie mich gerne für ein Erstgespräch oder buchen Sie direkt ein erstes Gespräch über Doctolib.
-          
-          Für ein unverbindliches Erstgespräch zu einem psychologischen Coaching kontaktieren Sie mich gerne per Mail. Ich melde mich zeitnah bei Ihnen. Für Online-Coaching berechne ich 120€/Stunde.
-          
-    btnName: E-Mail
-    email: encrypt
-# &#109;&#97;&#105;&#108;&#116;&#111;&#58;%62%65%6E%2E%6B%61%75%73%63%68%40%70%6F%73%74%65%6F%2E%64%65
-
-  # List pages like blogs and posts
   listPages:
     disableFeaturedImage: false
 
-  # Single pages like blog and post
   singlePages:
     socialShare: false
     readTime:
@@ -310,7 +384,6 @@ params:
     tags:
       openInNewTab: true
 
-  # For translations
   terms:
     read: "Read"
     toc: "Table Of Contents"
@@ -322,6 +395,3 @@ params:
     article: "Jan 2, 2006"
     articleList: "Jan 2, 2006"
     articleRecent: "Jan 2, 2006"
-
-  #customScripts: -| # You can add custom scripts which will be added before </body> tag
-  #  <script type="text/javascript"><!-- any script here --></script>

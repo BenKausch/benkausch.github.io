@@ -173,6 +173,17 @@
                     {{end}}
                     {{end}}
 
+                    <!-- language switcher -->
+                    <li class="nav-item navbar-text">
+                        <div class="nav-link" style="white-space: nowrap;">
+                            {{ if eq .Site.Language.Lang "de" }}
+                            <span style="font-weight:600;">DE</span>&nbsp;|&nbsp;<a href="/en/" style="text-decoration:none;">EN</a>
+                            {{ else }}
+                            <a href="/" style="text-decoration:none;">DE</a>&nbsp;|&nbsp;<span style="font-weight:600;">EN</span>
+                            {{ end }}
+                        </div>
+                    </li>
+
                     {{ if (not .Site.Params.theme.disableThemeToggle | default false) }}
                     <li class="nav-item navbar-text">
                         <!-- darkmode mode toggle -->

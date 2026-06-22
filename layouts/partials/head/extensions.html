@@ -1,4 +1,52 @@
 {{/*
-    You can add further theme extensions or customizations here if they should
-    appear in <head>.
+    Theme extensions for <head>: SEO meta, hreflang, Open Graph and
+    structured data (Schema.org). Kept here so theme updates stay clean.
 */}}
+
+{{/* Canonical URL */}}
+<link rel="canonical" href="{{ .Permalink }}">
+
+{{/* hreflang: tell Google about the German and English versions */}}
+{{ range .AllTranslations }}
+<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+{{ end }}
+<link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL }}">
+
+{{/* Open Graph / social preview */}}
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:title" content="{{ .Site.Title }}">
+<meta property="og:description" content="{{ .Site.Params.description }}">
+<meta property="og:url" content="{{ .Permalink }}">
+{{ $loc := split .Site.Language.Locale "-" }}
+<meta property="og:locale" content="{{ index $loc 0 }}_{{ upper (index $loc 1) }}">
+{{ with .Site.Params.hero.image }}
+<meta property="og:image" content="{{ . | absURL }}">
+{{ end }}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ .Site.Title }}">
+<meta name="twitter:description" content="{{ .Site.Params.description }}">
+
+{{/* Structured data: a physician/psychotherapy practice in Frankfurt */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["MedicalBusiness", "Physician"],
+  "name": "Dr. Benjamin Kausch – Psychotherapie",
+  "url": "{{ .Site.BaseURL }}",
+  "image": "{{ "/images/portrait_light_2026.jpg" | absURL }}",
+  "medicalSpecialty": "Psychiatric",
+  "knowsLanguage": ["de", "en"],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hebelstraße 11",
+    "postalCode": "60318",
+    "addressLocality": "Frankfurt am Main",
+    "addressCountry": "DE"
+  },
+  "availableService": {
+    "@type": "MedicalTherapy",
+    "name": "Cognitive Behavioural Therapy / Kognitive Verhaltenstherapie"
+  }
+}
+</script>
