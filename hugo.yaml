@@ -20,7 +20,7 @@ languages:
         title: "Dr. Benjamin Kausch"
         subtitle: "Psychotherapie & Beratung"
         content: "Schön, dass Sie hier sind. Wir alle erleben Phasen der Unsicherheit, des Zweifels oder des inneren Wandels – Momente, in denen wir nicht weiterzukommen scheinen. Als staatlich approbierter Psychologischer Psychotherapeut (Kognitive Verhaltenstherapie) in Frankfurt biete ich Ihnen einen geschützten Raum, um solchen Herausforderungen mit mehr Klarheit und einer neuen Perspektive zu begegnen."
-        image: /images/portrait_light_2026.jpg
+        image: /images/portrait_green_2026.jpg
         roundImage: true
         bottomImage:
           enable: false
@@ -165,7 +165,7 @@ languages:
         title: "Dr. Benjamin Kausch"
         subtitle: "Psychotherapy & Counselling"
         content: "I'm glad you're here. We all run into stuck points — times of uncertainty, doubt, or quiet change. As an English-speaking, licensed Psychological Psychotherapist (Cognitive Behavioural Therapy) in Frankfurt, I offer you a safe, confidential space to meet those moments with greater clarity and a fresh perspective."
-        image: /images/portrait_light_2026.jpg
+        image: /images/portrait_green_2026.jpg
         roundImage: true
         bottomImage:
           enable: false
