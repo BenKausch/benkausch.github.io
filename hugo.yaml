@@ -142,9 +142,9 @@ languages:
         enable: true
         title: "Kontakt"
         content: |
-          Für eine psychotherapeutische Behandlung (privat versichert/PKV und Selbstzahler, Abrechnung nach GOP/GOÄ) melden Sie sich gerne für ein Erstgespräch – oder buchen Sie direkt einen ersten Termin über Doctolib.
+          Für eine psychotherapeutische Behandlung (privat versichert/PKV, Beihilfe, Kostenerstattungsverfahren und Selbstzahler, Abrechnung nach GOP/GOÄ) melden Sie sich gerne für ein Erstgespräch – oder buchen Sie direkt einen ersten Termin über Doctolib.
 
-          Wenn Sie ein unverbindliches Gespräch zu einem psychologischen Coaching wünschen, schreiben Sie mir einfach eine E-Mail. Ich melde mich zeitnah bei Ihnen. Online-Coaching biete ich zu 120 € pro Stunde an.
+          Wenn Sie ein unverbindliches Gespräch zu einem psychologischen Coaching wünschen, schreiben Sie mir einfach eine E-Mail. Ich melde mich zeitnah bei Ihnen. Online-Coaching biete ich zu 135 € pro Stunde an.
 
           Therapie und Beratung biete ich auf Deutsch und Englisch an.
 
@@ -287,9 +287,9 @@ languages:
         enable: true
         title: "Contact"
         content: |
-          For psychotherapy (private health insurance or self-pay, billed according to the German GOP/GOÄ fee schedule), do get in touch to arrange an initial consultation, or book your first appointment directly through Doctolib.
+          For psychotherapy (private health insurance, Beihilfe or self-pay, billed according to the German GOP/GOÄ fee schedule), do get in touch to arrange an initial consultation, or book your first appointment directly through Doctolib.
 
-          If you'd like a no-obligation conversation about psychological coaching, simply send me an email — I'll get back to you soon. Online coaching is offered at €120 per hour.
+          If you'd like a no-obligation conversation about psychological coaching, simply send me an email — I'll get back to you soon. Online coaching is offered at €135 per hour.
 
           I offer therapy and counselling in both German and English.
 
